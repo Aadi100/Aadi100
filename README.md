@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width="1000" src="https://github.com/Aadi100/Aadi100/blob/main/Coder.gif"  />
+  <img height="300" width="1000" src="https://github.com/Aadi100/Aadi100/blob/main/Coder.gif"  />
 </div>
 
 ###
@@ -22,6 +22,7 @@
 
 ###
 
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -29,6 +30,10 @@
 <p align="left">I'm Abdul Hadi a Software Engineer from Pakistan.<br><br>-🌱 I’m currently Trying to learn Unity and .Net 😊<br>-💬 Ask me about anything, I am always happy to help<br>-📫 How to reach me aabdul.hadikhan10@gmail.com<br>-⚡️ Fun-Fact: Recently I love pc gaming 💖💖</p>
 
 ###
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Aadi100&&style=flat-square)  
+
+###  
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -75,13 +80,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 ![Visitor Count](https://profile-counter.glitch.me/Aadi100}/count.svg)
 ###
-![Profile views counter](https://komarev.com/ghpvc/?username=Aadi100&&style=flat-square)  
-###  
+
 
